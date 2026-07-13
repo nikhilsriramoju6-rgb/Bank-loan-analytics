@@ -52,17 +52,27 @@ Covered similar Insights and Charts across all modules.
 ## Insight/Suggestions & Recommendations
 
 Total loan applications showed a steady increase, indicating growing customer demand for loans.
+
 Customers with higher credit grades had significantly lower default rates.
+
 Fully paid loans contributed the largest share of recovered funds, while charged-off loans accounted for most financial losses.
+
 Loan performance varied across states and regions, highlighting geographical differences in credit risk.
+
 Strengthen credit evaluation for applicants with low credit grades or high DTI ratios.
+
 Promote shorter-term loans where appropriate to reduce default risk.
+
 Improve income verification processes before approving high-value loans.
+
 Develop risk-based interest rate strategies according to customer credit profiles.
+
 Regularly review customer behavior and update lending policies based on emerging trends.
+
 Implement automated alerts for high-risk loans to enable proactive risk management.
 
 ## Conclusion
 
 The Bank Loan Analytics project demonstrates how data analytics can be used to evaluate loan performance, monitor portfolio health, and support informed lending decisions. By analyzing loan applications, funded amounts, repayments, defaults, customer demographics, and credit risk indicators, the project provides meaningful insights into customer borrowing behavior and loan outcomes.
+
 Interactive dashboards built using SQL, Microsoft Excel, Power BI, and Tableau enable stakeholders to track key KPIs, identify trends, detect high-risk segments, and make data-driven decisions. Overall, this project highlights the value of analytics in improving loan approval strategies, minimizing financial risk, enhancing operational efficiency, and contributing to sustainable business growth in the banking sector.
