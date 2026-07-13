@@ -12,6 +12,17 @@ TABLEAU : A data visualization tool used for creating advanced visualizations an
 
 POWER BI : Power BI was used to develop interactive reports and dashboards. The tool’s capabilities in handling large datasets and creating dynamic visuals. Power BI's integration features allowed for combining data from various sources, enhancing the overall analysis.
 
+## Questions(KPI'S)
+1.Year wise loan amount Stats
+
+2.Grade and sub grade wise revol_bal
+
+3.Total Payment for Verified Status Vs Total Payment for Non Verified Status
+
+4.State wise and last_credit_pull_d wise loan status
+
+5.Home ownership Vs last payment date stats
+
 ## Challenges Faced
 Converting raw and inconsistent data into Consistent data.
 
@@ -70,6 +81,9 @@ Develop risk-based interest rate strategies according to customer credit profile
 Regularly review customer behavior and update lending policies based on emerging trends.
 
 Implement automated alerts for high-risk loans to enable proactive risk management.
+
+## Dataset used
+https://1drv.ms/u/c/edd4717dac415b65/IQALQLsfBBy4QJZUd4rTMiCWAaL2sQ_bg-aZphOblydcd4c?e=ZYxzoU
 
 ## Conclusion
 
